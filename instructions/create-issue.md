@@ -9,8 +9,8 @@
 
 Markdown is a fun and easy way to format your messages on GitHub and to keep them fun. Here are a few resources you might find interesting:
 
-[Markdown Basics](https://help.github.com/articles/markdown-basics/)
-[GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
-[Writing on GitHub](https://help.github.com/articles/writing-on-github/)
+- [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
 
 We also love to use emoji to brighten our co-worker's day. Here is a fun [emoji cheatsheet](http://www.emoji-cheat-sheet.com/).

@@ -9,4 +9,5 @@ In this class, we will be creating a new file containing a few interesting facts
 5. Click **Preview** to see how your file will look when it is rendered on GitHub.
 6. Type your commit message.
 7. Click **Create a new branch for this commit and start a pull request.**
-8. Type a branch name in the field provided (or use the auto-generated one).
+8. Type a **branch name** in the field provided (or use the auto-generated one).
+9. Click **Propose file change**.

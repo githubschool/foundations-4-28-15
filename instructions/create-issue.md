@@ -7,6 +7,8 @@
 5. Type **@** and the instructor's name to @mention the instructor.
 6. Click Submit new issue.
 
+### Digging Deeper
+
 Markdown is a fun and easy way to format your messages on GitHub and to keep them fun. Here are a few resources you might find interesting:
 
 - [Markdown Basics](https://help.github.com/articles/markdown-basics/)

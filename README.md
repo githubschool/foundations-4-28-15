@@ -21,7 +21,7 @@ Here are the activities you will complete in this class. If you get stuck or hav
 3. Add a bio to the class site. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/add-file-on-github.md)
 4. Comment on a Pull Request.
 5. Make a change to your bio on the class site. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/changing-files-on-GitHub.md)
-6. Merge your Pull Request. [Instructions]
+6. Merge your Pull Request. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/merge-your-pull-request.md)
 7. Fork this repository.
 8. Clone this repository to your desktop. [Instructions]
 9. Make a change to your bio using the desktop apps. [Instructions]

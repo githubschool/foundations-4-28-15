@@ -1,7 +1,7 @@
 ## Welcome to Foundations
 
 - Date: 4-28-15
-- Trainers: Cynthia and Patrick
+- Trainers: @crichID and @PatrickBM
 
 ## Class Goals
 

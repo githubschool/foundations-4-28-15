@@ -23,9 +23,9 @@ Here are the activities you will complete in this class. If you get stuck or hav
 5. Make a change to your bio on the class site. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/changing-files-on-GitHub.md)
 6. Merge your Pull Request. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/merge-your-pull-request.md)
 7. Fork this repository.
-8. Clone this repository to your desktop. [Instructions]
-9. Make a change to your bio using the desktop apps. [Instructions]
-10. Create a new file using the desktop apps.[Instructions]
-11. Push your changes to GitHub. [Instructions]
-12. Merge your changes. [Instructions]
+8. Clone this repository to your desktop.  [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/clone-a-repo.md)
+9. Make a change to your bio using the desktop apps. [Instructions] (https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/make-changes-on-desktop.md)
+10. Create a new file using the desktop apps. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/new-file-on-desktop.md)
+11. Push your changes to GitHub. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/push-changes-desktop.md)
+12. Merge your changes. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/merge-your-pull-request.md)
 

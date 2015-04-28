@@ -6,9 +6,9 @@
 ## Class Goals
 
 During this class, you will learn:
-- [ ] How git and GitHub work together to version control your projects.
-- [ ] A baseline of information on how GitHub enables collaboration within your work team.
-- [ ] How to use the GitHub platform and GitHub desktop applications.
+- How git and GitHub work together to version control your projects.
+- A baseline of information on how GitHub enables collaboration within your work team.
+- How to use the GitHub platform and GitHub desktop applications.
 
 This class is the first in a three part series. If you prefer to work on the command line, you may want to check out the classes offered tomorrow and Thursday. More information at [training.github.com/schedule](https://training.github.com/schedule/)
 
@@ -28,4 +28,3 @@ Here are the activities you will complete in this class. If you get stuck or hav
 10. Create a new file using the desktop apps. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/new-file-on-desktop.md)
 11. Push your changes to GitHub. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/push-changes-desktop.md)
 12. Merge your changes. [Instructions](https://github.com/githubschool/foundations-4-28-15/blob/master/instructions/merge-your-pull-request.md)
-

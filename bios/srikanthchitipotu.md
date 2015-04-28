@@ -1,4 +1,5 @@
 This is my bio
 
--My favorite color
--My favorite restaurant
+-My favorite color is blue
+-My favorite food is pizza
+

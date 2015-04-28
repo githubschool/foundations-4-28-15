@@ -2,5 +2,5 @@ This is my bio page.
 
 I think I promised that I was going to add my favorite color.
 - My favorite color is just about anything on the spectrum between golden yellow and spring green.
-- My favorite food (today) is cilantro lime fish tacos.
+- My favorite food (today) is cilantro lime fish tacos. But usually it's popcorn.
 - My two cats, Morgan and Patrick, frim.

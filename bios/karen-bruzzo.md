@@ -1,5 +1,5 @@
 Karen Bruzzo
 
-* favorite color is blue
+* favorite color is royal blue
 * favorite food is sushi
 * favorite movie is the sound of music

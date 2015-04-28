@@ -4,3 +4,4 @@ Cynthia Rich
 * Has two dogs.
 * Loves to play the saxophone.
 * Favorite food is Italian.
+* Loves snow!
